@@ -1,0 +1,29 @@
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.exe.config
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.exe
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.pdb
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.csproj.AssemblyReference.cache
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.Form1.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmAjouterExpertise.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmAssocierCategorieExpertise.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmModifierDetruireExpertise.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmNombreExpertise.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.Properties.Resources.resources
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.csproj.GenerateResource.cache
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.csproj.CoreCompileInputs.cache
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.exe
+E:\cegep\Session2\Base de donnees\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.pdb
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.exe.config
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.exe
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\bin\Debug\WA_devoir3.pdb
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.frmCategorieEtExpertises.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmExpertisePourUnMechanicien.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.frmMenu.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmAjouterExpertise.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmAssocierCategorieExpertise.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmModifierDetruireExpertise.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.Properties.Resources.resources
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.csproj.GenerateResource.cache
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.exe
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.pdb
+C:\Users\thoma\Downloads\WA_devoir3\WA_devoir3\WA_devoir3\obj\Debug\WA_devoir3.FrmAjouterMécanicien.resources
